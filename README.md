@@ -4,7 +4,6 @@ Python MUSIC BOT, YOUTUBE
 # Music Bot
 
 
-[![Discord](https://img.shields.io/discord/735831202799419454?label=DISCORD&logo=discord&style=for-the-badge)](https://discord.gg/dVNfdXe)
 [![Python version](https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python)](https://python.org)
 
 
